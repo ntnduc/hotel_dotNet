@@ -1,0 +1,12 @@
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\bin\Debug\net7.0\Hotel.Domain.deps.json
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\bin\Debug\net7.0\Hotel.Domain.dll
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\bin\Debug\net7.0\Hotel.Domain.pdb
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\Hotel.Domain.csproj.AssemblyReference.cache
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\Hotel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\Hotel.Domain.AssemblyInfoInputs.cache
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\Hotel.Domain.AssemblyInfo.cs
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\Hotel.Domain.csproj.CoreCompileInputs.cache
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\Hotel.Domain.dll
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\refint\Hotel.Domain.dll
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\Hotel.Domain.pdb
+D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Domain\obj\Debug\net7.0\ref\Hotel.Domain.dll
