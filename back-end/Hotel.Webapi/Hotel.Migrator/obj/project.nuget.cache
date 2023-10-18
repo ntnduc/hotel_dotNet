@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lJ1nyP2P57SoXlvHwPcFe2qTGwoarAJuwo88y21QJQbQFFgR887JxFYv+mRYoQDsc2qGdPyIOHC0eXGQmCMbBA==",
+  "dgSpecHash": "uxz3h+CoUHgDla7gzm4JI1gGJvxC7TKX/sXy4Ih5G+BdZ6AnpOlXKiOYgbvfb7nF4huyY9NGCvnXzdeezqlBWQ==",
   "success": true,
   "projectFilePath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Migrator/Hotel.Migrator.csproj",
   "expectedPackageFiles": [

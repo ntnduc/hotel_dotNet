@@ -1469,7 +1469,7 @@
           "bin/placeholder/Hotel.Infrastructure.dll": {}
         }
       },
-      "Hotel.Webapi/1.0.0": {
+      "Hotel.WebApi/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -1482,10 +1482,10 @@
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "compile": {
-          "bin/placeholder/Hotel.Webapi.dll": {}
+          "bin/placeholder/Hotel.WebApi.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hotel.Webapi.dll": {}
+          "bin/placeholder/Hotel.WebApi.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -4179,16 +4179,16 @@
       "path": "../Hotel.Infrastructure/Hotel.Infrastructure.csproj",
       "msbuildProject": "../Hotel.Infrastructure/Hotel.Infrastructure.csproj"
     },
-    "Hotel.Webapi/1.0.0": {
+    "Hotel.WebApi/1.0.0": {
       "type": "project",
-      "path": "../Hotel.Webapi/Hotel.Webapi.csproj",
-      "msbuildProject": "../Hotel.Webapi/Hotel.Webapi.csproj"
+      "path": "../Hotel.WebApi/Hotel.WebApi.csproj",
+      "msbuildProject": "../Hotel.WebApi/Hotel.WebApi.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Hotel.Infrastructure >= 1.0.0",
-      "Hotel.Webapi >= 1.0.0",
+      "Hotel.WebApi >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.3",
       "Microsoft.EntityFrameworkCore.Relational >= 7.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.3"
@@ -4223,8 +4223,8 @@
             "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Infrastructure/Hotel.Infrastructure.csproj": {
               "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Infrastructure/Hotel.Infrastructure.csproj"
             },
-            "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj": {
-              "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj"
+            "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj": {
+              "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj"
             }
           }
         }

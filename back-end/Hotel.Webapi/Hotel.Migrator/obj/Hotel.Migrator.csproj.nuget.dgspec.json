@@ -246,8 +246,8 @@
               "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Infrastructure/Hotel.Infrastructure.csproj": {
                 "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Infrastructure/Hotel.Infrastructure.csproj"
               },
-              "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj": {
-                "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj"
+              "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj": {
+                "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj"
               }
             }
           }
@@ -300,14 +300,14 @@
         }
       }
     },
-    "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj": {
+    "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj",
-        "projectName": "Hotel.Webapi",
-        "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj",
+        "projectUniqueName": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj",
+        "projectName": "Hotel.WebApi",
+        "projectPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj",
         "packagesPath": "/Users/nguyentrannhatduc/.nuget/packages/",
-        "outputPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/obj/",
+        "outputPath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nguyentrannhatduc/.nuget/NuGet/NuGet.Config"

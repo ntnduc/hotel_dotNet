@@ -10,5 +10,4 @@ public class User : IEntity<Guid>
     public string LastName { get; set; }
     public string UserName { get; set; }
     public Guid UserConfigId { get; set; }
-    public UserConfig UserConfig { get; set; }
 }

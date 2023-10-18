@@ -2,7 +2,6 @@
 
 using Hotel.Domain.User.Repositories;
 using Hotel.Infrastructure.Repositories.User;
-using Hotel.Infrastructure.Repositories.UserConfig;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -14,7 +13,6 @@ public static class InfrastructureModule
         ConfigurationManager configurationManager)
     {
         // service.AddDbContext<ApplicationDbContext>();
-        service.AddScoped<IUserConfigRepositories, UserConfigRepositories>();
         service.AddScoped<IUserRepositories, UserRepositories>();
         return service;
     }

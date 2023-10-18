@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vuNkP06HDPSgN6T8gVVDCUZWhjx+fUqvEWyv4WwzRcJZK9chzLFhZOhb9XtPR4/m2usMhF86FY7g9h383XRvMg==",
+  "dgSpecHash": "vUl7h8pybhNK7qdlW1mfXjm8i0jyC8hez4BrvV+mr08ldPoVQ/M7xGMrvE7MeX9Kqp/+icrm3+re5TkXzhx1tw==",
   "success": true,
-  "projectFilePath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Webapi/Hotel.Webapi.csproj",
+  "projectFilePath": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/nguyentrannhatduc/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/nguyentrannhatduc/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

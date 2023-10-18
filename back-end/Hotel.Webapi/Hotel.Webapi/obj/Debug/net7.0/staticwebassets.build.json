@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "yNxhPcsbwsO8/duNOC3AOh/L0RnWTVkNK3bbB72+lI8=",
-  "Source": "Hotel.Webapi",
-  "BasePath": "_content/Hotel.Webapi",
+  "Hash": "f7uvEugB+wptKjF7kESq/wT4pSIrIwIvvo3Ss3Phnvc=",
+  "Source": "Hotel.WebApi",
+  "BasePath": "_content/Hotel.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

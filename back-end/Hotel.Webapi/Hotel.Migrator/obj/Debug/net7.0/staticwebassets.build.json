@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "gbMlpaF7SBsT0fSMpGayX8ZcGyRNsvwVbg43veOHarM=",
+  "Hash": "GN4NTvdUjc/1vCC85I+vSKnuARwcw9zT9mPKDfA2fmg=",
   "Source": "Hotel.Migrator",
   "BasePath": "_content/Hotel.Migrator",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\TDTU\\HK1_2324\\.Net\\hotel\\admin\\back-end\\Hotel.Webapi\\Hotel.WebApi\\Hotel.WebApi.csproj",
+      "Identity": "/Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.WebApi/Hotel.WebApi.csproj",
       "Version": 2,
       "Source": "Hotel.WebApi",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
