@@ -1,6 +1,6 @@
 import './style/product-list.scss';
 
-import useRequest, { ApiResponse } from 'common/customHook/useRequest';
+import useRequest from 'common/customHook/useRequest';
 import Loading from 'component/Loading';
 import _ from 'lodash';
 import { useEffect } from 'react';
@@ -21,23 +21,16 @@ const ProductList = () => {
         data: [],
         loading: true
     });
-    
+
     useEffect(() => {
         loadData();
     }, []);
 
     const loadData = () => {
-        let result: Array<Type_Product_Api> = [];
-        get<Array<Type_Product_Api>>('/api/product/list').then(
-            (response: ApiResponse<Array<Type_Product_Api>>) => {
-                if (response.success) {
-                    result = response.result as Array<Type_Product_Api>;
-                    setState({
-                        loading: false,
-                        data: result
-                    });
-                }
-            });
+        setState({
+            loading: false,
+            data: []
+        });
     };
 
     if (state.loading) {
