@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hotel.Application
-build_property.ProjectDir = D:\TDTU\HK1_2324\.Net\hotel\admin\back-end\Hotel.Webapi\Hotel.Application\
+build_property.ProjectDir = /Users/nguyentrannhatduc/Documents/Github/hotel_dotNet/back-end/Hotel.Webapi/Hotel.Application/
